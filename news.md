@@ -7,6 +7,9 @@ permalink: /news/
 # News @ the Long Gene Lab<br>
   <br>
 
+  **06/11/2020:**  Our website of **LongGeneDB** (https://nyit.edu/longgenedb) is working. Thank you for your great work,  **Nick Lombardi, Mihir Matalia, Yura Kim, and Mariam Naghavi.** <br>
+  <br>
+  
   **03/03/2020:**  **Brian Tang** joined the Long Gene Lab. **Welcome Brian!** <br>
   <br>
   
